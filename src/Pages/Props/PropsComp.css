@@ -1,0 +1,19 @@
+.box {
+    border: 1px solid #1b1a1a;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: max-content;
+  }
+  
+  .box-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .box-text {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
